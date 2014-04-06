@@ -1,4 +1,4 @@
-topcoder
+TopCoder
 ========
 
-Random algorithm implementation, mostly from TopCoder
+Random algorithm implementation, mostly from TopCoder.
